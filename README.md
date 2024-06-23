@@ -5,7 +5,7 @@ This repository contains the source code for the paper **"Automatic Reconstructi
 ## Overview
 This project aims to reconstruct ancient Chinese pronunciations using a transformer-based model, incorporating both glyph and temporal features. The dataset, ACP (Ancient Chinese Phonology), consists of digitized phonology rules for a large number of Chinese characters spanning multiple historical periods.
 
-We have also created a demo website where you can see the predicted future pronunciations of some Chinese characters using our model. Check it out at [http://47.97.123.246:8080/](http://47.97.123.246:8080/).
+We have also created a demo website where you can see the predicted future pronunciations of some Chinese characters using our model. Check it out at [Ancient Chinese Demo](http://47.97.123.246:8080/).
 
 ## Requirements
 To run the code, you'll need the following dependencies:
@@ -24,7 +24,7 @@ The dataset used in this project is the Ancient Chinese Phonology (ACP) dataset,
 ## Directory Structure
 The repository is structured as follows:
 ```
-├── dataset/                # Directory containing the dataset
+├── data/                # Directory containing the dataset
 ├── train/               # Directory containing training scripts
 ├── utils/               # Utility scripts and helper functions
 ├── requirements.txt     # Required Python packages
