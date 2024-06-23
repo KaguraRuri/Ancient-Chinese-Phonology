@@ -24,7 +24,7 @@ The dataset used in this project is the Ancient Chinese Phonology (ACP) dataset,
 ## Directory Structure
 The repository is structured as follows:
 ```
-├── data/                # Directory containing the dataset
+├── dataset/                # Directory containing the dataset
 ├── train/               # Directory containing training scripts
 ├── utils/               # Utility scripts and helper functions
 ├── requirements.txt     # Required Python packages
