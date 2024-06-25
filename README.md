@@ -76,6 +76,6 @@ Below are some examples of the predicted pronunciations for various Chinese char
 | **郝**    | ɕ i ɐ k    | ɕ i ə k  | ɕ - i t   | **ɕ - i tʰ**  | **x - au -**  | x - ɑu -  | **x - ɑ -**   |
 | **射**    | j i a -    | j i a -  | j i a -   | **j i a -**   | **ʂ - ɛ -**   | ʂ - ɤ -   | **ʂ - ə -**   |
 | **刊**    | kʰ - ɑ n   | kʰ - a n | kʰ - a n  | **kʰ - a n**  | **kʰ - a n**  | kʰ - a n  | **kʰ - æ n**  |
-| **惹**    | ȵ i a -    | r - a -  | r - a -   | **ɽ - e -**   | **ɽ - e -**   | ɻ - ɤ -   | **ɻ - ɤ -**   |
+| **惹**    | ȵ i a -    | r - a -  | r - a -   | **ɽ - e -**   | **ɽ - e -**   | ɻ - ɤ -   | **ɻ - e -**   |
 | **厕**    | ʧʰ - i -   | ʧʰ - i - | ʦʰ - ɿ -  | **ʦ - e -**   | **ʦ - ɤ -**   | ʦʰ - ɤ -  | **ʦ - e -**   |
 
